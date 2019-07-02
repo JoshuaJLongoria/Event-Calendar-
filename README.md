@@ -1,6 +1,7 @@
 # Event-Calendar-
 
 Author of Project: Joshua Longoria excluding WidgetViwer and WidgetViwerActionEvent
+
 Date made: April 20, 2018
 
 This project was made for a college course and therefore somethings are formatted a certain way due to constraints given to me by my 
