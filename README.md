@@ -14,5 +14,10 @@ event. After inputting a few events you can sort the list by date or name. You c
 inputting its name into the name box and then putting in the new amount of tickets sold. Lastly you can export the whole list to a .csv
 file called events.
 
+To use this grab all the code and open it in the program of your choice. Run the EventGUITester part of the program and you should be up
+and running. The WidgetViwer and WidgetViwerActionEvent are necessary for this program as the whole GUI will breakdown without them. They
+are not of my own creation though as my teacher at the time made it for the whole class. Feel free to edit the GUI to make text bigger or
+any other ease of use things you may want to do.
+
 
 Please don't use my work to complete the same project as I don't want to be responsible for making sure people arent cheating. 
